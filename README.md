@@ -1,4 +1,3 @@
-# SignTL
 # Sign Language Translation Model
 
 A real-time American Sign Language (ASL) gesture recognition and translation system using DETR (Detection Transformer) and PyTorch.
